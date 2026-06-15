@@ -1,8 +1,7 @@
 # 🚀 Godot 4 Android Native Toolkit
 ### Camera • QR Scanner • Ads • Media • File Picker • Share • Notifications • Video Player
 
-A complete **Android native plugin toolkit for Godot 4**, designed to let you access powerful Android system features directly from GDScript—**no Java/Kotlin required**.
-
+A complete **Android native plugin toolkit for Godot 4**, designed to let you access powerful Android system features directly from GDScript—
 ---
 
 ## 📦 What is this?
